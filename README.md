@@ -1,4 +1,2 @@
 # Personal Website
----
-permalink: /index.html
----
+https://seabass04.github.io/Personal-Website/
